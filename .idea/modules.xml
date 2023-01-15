@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EffectiveJava.iml" filepath="$PROJECT_DIR$/EffectiveJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModernJava/ModernJava.iml" filepath="$PROJECT_DIR$/ModernJava/ModernJava.iml" />
+    </modules>
+  </component>
+</project>
