@@ -47,4 +47,5 @@ public class Main {
                 .map(Dish::getName)
                 .collect(Collectors.toList());
     }
+
 }

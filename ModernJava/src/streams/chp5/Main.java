@@ -122,7 +122,9 @@ public class Main {
 
         Optional<Transaction> tr = transactions.stream().reduce(
                 (tr1, tr2) -> tr1.getValue() < tr2.getValue() ? tr1 : tr2);
-
+        Integer numbers[] = new Integer[] { 10, 20, 30, 40 };
+        List<Integer> list = Arrays.asList(numbers);
+        list.add(1, 1);
         System.out.println(names);
     }
 }
